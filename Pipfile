@@ -5,6 +5,8 @@ verify_ssl = true
 
 [dev-packages]
 twine = "*"
+behave = "*"
+pylint = "*"
 
 [packages]
 pyparsing = "*"
